@@ -1,0 +1,13 @@
+{
+  "scan_date": "2026-10-12",
+  "framework": "Next.js 14 (App Router)",
+  "font_stack": "SF Pro Display / Apple System (-apple-system, BlinkMacSystemFont)",
+  "palette": "Luxury Brown (#3D2314), Khaki Harmony (#C8B195), Clean White (#FFFFFF)",
+  "motion": "framer-motion 11, Three.js WebGL (motion-on)",
+  "spacing_scale": "Tailwind 4-pt scale",
+  "genre": "modern-minimal / luxury healthcare",
+  "macrostructure": "Bento Grid (01) with Marquee Hero Polish & Split Studio details",
+  "nav_archetype": "N5 Floating Pill",
+  "footer_archetype": "Ft5 Statement",
+  "theme": "Custom Luxury Brown & Khaki"
+}
